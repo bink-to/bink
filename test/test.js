@@ -15,7 +15,7 @@ after(() => {
  *  Test Cases
  * ============
  */
-describe('Bink', () => {
+describe(`${package.name}`, () => {
   const lib = require('../dist/index.js');
 
   // Method
