@@ -5,17 +5,17 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/package-json/v/bink/bink.svg">
+  <img src="https://img.shields.io/github/package-json/v/bink-to/bink-to.svg">
   <br>
-  <img src="https://img.shields.io/librariesio/release/npm/bink.svg">
-  <img src="https://img.shields.io/bundlephobia/min/bink.svg">
-  <img src="https://img.shields.io/codeclimate/maintainability-percentage/bink/bink.svg">
-  <img src="https://img.shields.io/npm/dm/bink.svg">
-  <img src="https://img.shields.io/node/v/bink.svg">
-  <img src="https://img.shields.io/website/https/bink.to.svg">
-  <img src="https://img.shields.io/github/license/bink/bink.svg">
-  <img src="https://img.shields.io/github/contributors/bink/bink.svg">
-  <img src="https://img.shields.io/github/last-commit/bink/bink.svg">
+  <img src="https://img.shields.io/librariesio/release/npm/bink-to.svg">
+  <img src="https://img.shields.io/bundlephobia/min/bink-to.svg">
+  <img src="https://img.shields.io/codeclimate/maintainability-percentage/bink-to/bink-to.svg">
+  <img src="https://img.shields.io/npm/dm/bink-to.svg">
+  <img src="https://img.shields.io/node/v/bink-to.svg">
+  <img src="https://img.shields.io/website/https/bink-to.to.svg">
+  <img src="https://img.shields.io/github/license/bink-to/bink-to.svg">
+  <img src="https://img.shields.io/github/contributors/bink-to/bink-to.svg">
+  <img src="https://img.shields.io/github/last-commit/bink-to/bink-to.svg">
   <br>
   <br>
   <a href="https://bink.to">Site</a> | <a href="https://www.npmjs.com/package/bink">NPM Module</a> | <a href="https://github.com/bink/bink">GitHub Repo</a>

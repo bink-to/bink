@@ -1,6 +1,6 @@
 {
   "name": "bink-to",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A free app for creating a link in bio page that turns your followers into customers!",
   "main": "./dist/index.js",
   "scripts": {
