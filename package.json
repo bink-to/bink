@@ -1,0 +1,34 @@
+{
+  "name": "bink",
+  "version": "0.0.3",
+  "description": "A free app for creating a link in bio page that turns your followers into customers!",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "npm run prepare && ./node_modules/mocha/bin/mocha test/ --recursive --timeout=10000",
+    "prepare": "node -e 'require(`prepare-package`)'"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bink/bink"
+  },
+  "keywords": [
+    "bink",
+    "link in bio",
+    "website creator",
+    "nodejs",
+    "front end"
+  ],
+  "author": "ITW Creative Works",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bink/bink/issues"
+  },
+  "homepage": "https://bink.to",
+  "devDependencies": {
+    "mocha": "^8.4.0",
+    "prepare-package": "^0.0.12"
+  }
+}
