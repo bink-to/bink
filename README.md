@@ -31,7 +31,7 @@ Yes, this module works in both Node and browser environments, including compatib
 * Getting proxy lists
 
 ### Getting an API key
-You can use so much of `bink` for free, but if you want to do some advanced stuff, you'll need an API key. You can get one by [signing up for a Bink account](https://bink.to/authentication/signup).
+You can use so much of `bink` for free, but if you want to do some advanced stuff, you'll need an API key. You can get one by [signing up for a Bink account](https://bink.to/signup).
 
 ## Install Bink
 ### Install via npm
